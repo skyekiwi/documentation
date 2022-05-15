@@ -11,7 +11,6 @@ import LayoutProviders from '@theme/LayoutProviders';
 import { ToastContainer } from 'react-toastify';
 import LayoutHead from '@theme/LayoutHead';
 import SkipToContent from '@theme/SkipToContent';
-import AnnouncementBar from '@theme/AnnouncementBar';
 import Navbar from '@theme/Navbar';
 import Footer from '@theme/Footer';
 import clsx from 'clsx';
