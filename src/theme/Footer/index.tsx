@@ -8,6 +8,7 @@
  */
 import React from 'react';
 import clsx from 'clsx';
+import Logo from '@theme/Logo';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './styles.module.css';
 import GithubButton from '../../components/buttons/GithubButton';
@@ -29,13 +30,9 @@ const Footer: React.FC = () => {
           {/*Footer Left */}
           <div className={styles.FooterLeft}>
             <div className={styles.BrandContainer}>
-              <img
-                className={styles.BrandImage}
-                alt="SkyeKiwi Logo"
-                height={35}
-                width={35}
-                src="/img/logo.svg"
-                title={siteConfig.tagline}
+
+              <Logo
+                imageClassName={styles.BrandImage}
               />
               <div className={styles.BrandText}>SkyeKiwi</div>
             </div>

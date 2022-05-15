@@ -36,7 +36,7 @@ Here are a few ideas to get started:
 ### Join our Discord Server
 
 Contributions are very welcome and not bound to Github.
-You can also contribute to our [Discord Community](https://discord.gg/FTqeMNCxw7) by helping other people
+You can also contribute to our [Discord Community](https://discord.com/invite/m7tFX8u43J) by helping other people
 who might face a problem you already have solved.
 
 ### Improve Issues and Pull Requests

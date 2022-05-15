@@ -23,29 +23,24 @@ const npmOrgUrl = 'https://www.npmjs.com/package/@agile-ts';
 const customFields = {
   copyright: `Made with  💜 by <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/skyekiwi_team">SkyeKiwi</a>`,
   meta: {
-    title: 'An atom based state manager for JavaScript apps.',
+    title: "SkyeKiwi is a privacy layer for Web3.",
     image: '/img/meta.png',
     description:
-      'An atom based global State and Logic Library implemented in Typescript, ' +
-      'offering a reimagined API that focuses on developer experience. ' +
-      'AgileTs is a more straightforward alternative to Redux ' +
-      'and allows you to easily manage your application States in React, Vue and plain Javascript.',
+      "SkyeKiwi is a privacy layer for Web3",
     color: '#6c69a0',
     keywords: [
-      'state management',
-      'react',
-      'state',
-      'react state management',
-      'react native state management',
-      'react state',
-      'typescript',
-      'react state management without redux',
-      'vue',
-      'webdev',
-      'redux',
-      'recoil',
-      'mobx',
-      'javascript',
+      'web3',
+      'privacy',
+      'ethereum',
+      'blockchain',
+      'blockchain-privacy',
+      'blockchain-security',
+      'polkadot',
+      'kusama',
+      'substrate',
+      'near',
+      'near protocol',
+      'layer2',
       'software',
       'coding',
       'development',
@@ -57,7 +52,7 @@ const customFields = {
   githubUrl: `${githubOrgUrl}/skyekiwi-network`,
   githubDocsUrl: `${githubOrgUrl}/documentation`,
   npmCoreUrl: `${npmOrgUrl}/core`,
-  discordUrl: `https://discord.gg/274zjNkC`,
+  discordUrl: `https://discord.com/invite/m7tFX8u43J`,
   twitterUrl: 'https://twitter.com/skyekiwi_team',
   version: '0.0.1',
   announcementBar: {

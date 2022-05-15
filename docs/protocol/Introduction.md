@@ -119,7 +119,7 @@ yarn
 SEED_PHRASE = 'xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx'
 ```
 
-Go to our [Discord](https://discord.gg/274zjNkC) server for testnet faucet. 
+Go to our [Discord](https://discord.com/invite/m7tFX8u43J) server for testnet faucet. 
 
 3. Run Tests. The process can take somewhere between 3minutes to 10 minutes, depends on network connection. 
 
