@@ -127,15 +127,15 @@ const config = {
             },
             {
               label: 'Quick Start',
-              to: '/docs/quick-start/index/',
+              to: '/docs/quick-start/interact',
             },
             {
               label: 'Contributing',
               to: '/docs/contributing/',
             },
             {
-              label: 'Examples',
-              to: '/docs/examples/',
+              label: 'Common FAQs',
+              to: '/docs/faqs',
             },
           ],
         },
@@ -177,12 +177,12 @@ const config = {
               to: 'docs/introduction',
             },
             {
-              label: 'Examples',
-              to: 'docs/examples',
+              label: 'Quick Start',
+              to: 'docs/quick-start/interact',
             },
             {
-              label: 'React',
-              to: 'docs/quick-start/react',
+              label: 'FAQs',
+              to: 'docs/faqs',
             },
           ],
         },

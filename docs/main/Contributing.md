@@ -8,7 +8,7 @@ image: img/meta.png
 ---
 
 We are open and grateful for any contribution made by the community.
-If you're interested in contributing to AgileTs, this document might make the process for you easier.
+If you're interested in contributing to SkyeKiwi, this document might make the process for you easier.
 
 The [Open Source Guides](https://opensource.guide/) website has a collection of resources for individuals,
 communities, and companies who want to learn how to run and contribute to an open-source project.

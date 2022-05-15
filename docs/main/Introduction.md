@@ -7,6 +7,12 @@ description: SkyeKiwi is building a privacy layer for blockchains based on a gen
 image: img/meta.png
 ---
 
+:::note
+**A fun background story behind our logo** <br/><br/>
+Little do people know that among all Greek letters, Sigma is a special one. Not only because it’s the Greek for S and S for  SkyeKiwi(duh..), but also because it’s the only Greek letter that can be written in three ways: uppercase “Σ”, lowercase “σ” and lowercase in word-final position “ς” and English likely adopt “ς” as “S” (they do look alike, right?). We make our logo to honor the Greeks’ letter Sigma but intentionally leave out the “ς” ( at a word-final position :) ), to keep this a secret (Shhhh... ). To read more on this fun Greek fact. [Link](https://en.wikipedia.org/wiki/Sigma)
+:::
+
+
 ## 👋 Introduction {#introduction}
 
 SkyeKiwi is building a privacy layer for blockchains (the SkyeKiwi Network) based on the cryptographic backbone of the SkyeKiwi Protocol. The SkyeKiwi Network is a **fast and cheap**, and **optional privacy** smart contract execution blockchain, packed with modern features. We aim to ease the pain of adoption to the era of privacy enabled interoperable blockchains. The core features behind the SkyeKiwi Network are awesome:

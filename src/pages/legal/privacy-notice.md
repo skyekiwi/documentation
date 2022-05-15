@@ -3,7 +3,7 @@ id: privacy-notice
 hide_table_of_contents: true
 ---
 
-# AgileTs Open Source - Privacy Policy
+# SkyeKiwi Open Source - Privacy Policy
 
 **Last updated March 15, 2021**
 
@@ -14,12 +14,12 @@ and we don't collect any data regarding our users on our own.
 
 :::
 
-Thank you for choosing to be part of our community at AgileTs ("Company", "we", "us", "our").
+Thank you for choosing to be part of our community at SkyeKiwi("Company", "we", "us", "our").
 We are committed to protecting your personal information and your right to privacy.
 If you have any questions or concerns about this privacy notice,
-or our practice with regards to your person information, please contact us at `agiletypescript@gmail.com`.
+or our practice with regards to your person information, please contact us at `hello@skye.kiwi`.
 
-When you visit our website https://agile-ts.org (the "Website"),
+When you visit our website https://docs.skye.kiwi(the "Website"),
 we appreciate that you are trusting us with your personal information.
 We take your privacy very seriously.
 In this privacy notice, we seek to explain to you in the clearest way possible what information we collect on **this** website,
