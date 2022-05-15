@@ -27,8 +27,19 @@ module.exports = {
       type: 'category',
       label: 'SKYEKIWI NETWORK',
       collapsed: false,
-      items: ['network/introduction', 'network/protocol', 'network/ipfs'],
+      items: [
+        'network/introduction', 
+        'network/consensus',
+        'network/relay', 
+        'network/transaction-encoding',
+        'network/gateways',
+        'network/virtual-shards', 
+        'network/assets-bridge',
+        'network/conditional-gasless',
+        'network/key-rotation',
+      ],
     },
     'faqs',
+    'bounties'
   ],
 };

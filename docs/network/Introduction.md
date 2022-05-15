@@ -1,20 +1,14 @@
 ---
 id: introduction
-title: Introducing SkyeKiwi Protocol
+title: Introducing SkyeKiwi Network 
 sidebar_label: Introduction
 slug: /network/introduction
-description: SkyeKiwi Protocol is a generic secret sharing protocol. 
+description: SkyeKiwi Network is a privacy layer for blockchains. 
 image: img/meta.png
 ---
 
-:::note
-**A fun background story behind our logo** <br/><br/>
-Little do people know that among all Greek letters, Sigma is a special one. Not only because it’s the Greek for S and S for  SkyeKiwi(duh..), but also because it’s the only Greek letter that can be written in three ways: uppercase “Σ”, lowercase “σ” and lowercase in word-final position “ς” and English likely adopt “ς” as “S” (they do look alike, right?). We make our logo to honor the Greeks’ letter Sigma but intentionally leave out the “ς” ( at a word-final position :) ), to keep this a secret (Shhhh... ). To read more on this fun Greek fact. [Link](https://en.wikipedia.org/wiki/Sigma)
-:::
-
-## What is SkyeKiwi Protocol?
-SkyeKiwi is using a combination of multiple well-developed cryptographic schema to create a solution of securely sharing information in blockchain networks. The capacities of blockchain networks will be significantly enhanced when programable secrets can be processed through a decentralized network. We believe an innovative and unique new economic model will be created when secrets are processed on blockchains. 
-
+## What is SkyeKiwi Network?
+The SkyeKiwi Network is a modern, future-proof privacy enabled network that acts as both an layer-1 and layer-2 network. 
 
 ## How does it work?
 
