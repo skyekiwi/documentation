@@ -67,10 +67,10 @@ SkyeKiwi Network will be cross-chain ready in the Polkadot/Kusama parachain syst
 
 ## 🎉 Credits {#credits}
 
-This ducomentation website is built upon a template crafted by [AgileTs](/). 
+This ducomentation website is built upon a template crafted by [AgileTs](https://agile-ts.org). 
 
 ## ❓ Something missing {#something-missing}
 
 If you find issues with the documentation or have suggestions on how to improve the documentation or the project in
-general, please [file an issue](https://github.com/agile/agile-ts/issues) for us or join
-our [Community Discord](https://discord.gg/T9GzreAwPH) and notice it in the `#issue` channel.
+general, please [file an issue](https://github.com/skyekiwi/documentation) for us or join
+our [Community Discord](https://discord.gg/274zjNkC) and notice it in the `#issue` channel.

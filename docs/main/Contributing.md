@@ -1,6 +1,6 @@
 ---
 id: contributing
-title: Contributing to AgileTs
+title: Contributing to SkyeKiwi
 sidebar_label: Contributing
 slug: /contributing
 description: Contributions to AgileTs are not hard and very welcome.

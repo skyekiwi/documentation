@@ -122,16 +122,16 @@ const config = {
           position: 'left',
           items: [
             {
-              label: 'Installation',
-              to: '/docs/installation/',
+              label: 'Introduction',
+              to: '/docs/introduction/',
             },
             {
-              label: 'React',
-              to: '/docs/quick-start/react/',
+              label: 'Quick Start',
+              to: '/docs/quick-start/index/',
             },
             {
-              label: 'Style Guide',
-              to: '/docs/style-guide/',
+              label: 'Contributing',
+              to: '/docs/contributing/',
             },
             {
               label: 'Examples',
@@ -213,10 +213,6 @@ const config = {
             {
               label: 'Cookie Policy',
               to: '/legal/cookie-notice',
-            },
-            {
-              label: 'Blog',
-              to: '/blog/',
             },
           ],
         },
