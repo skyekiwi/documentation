@@ -2,13 +2,12 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'AGILETS',
+      label: 'SKYEKIWI',
       collapsed: false,
       items: [
         'main/introduction',
-        'main/installation',
-        'main/style-guide',
-        'main/frameworks',
+        'main/philosophy',
+        'main/virtual-machines',
         'main/contributing',
       ],
     },

@@ -1,9 +1,9 @@
 ---
-id: installation
-title: Installation
-sidebar_label: Installation
-slug: /installation
-description: How to install AgileTs and its plugins in various environments like React, Vue.
+id: philosophy
+title: Philosophy
+sidebar_label: Philosophy
+slug: /philosophy
+description: Some inherative building philosophy behind SkyeKiwi. 
 image: img/meta.png
 ---
 

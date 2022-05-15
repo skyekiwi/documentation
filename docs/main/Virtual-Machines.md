@@ -1,9 +1,9 @@
 ---
-id: frameworks
-title: Frameworks
-sidebar_label: Frameworks
-slug: /frameworks
-description: AgileTs can be used in various frameworks like React, React-Native, Vue, ..
+id: virtual-machines
+title: Virtual Machines
+sidebar_label: Virtual Machines
+slug: /virtual-machines
+description: SkyeKiwi Network supports multiple virtual machines. 
 image: img/meta.png
 ---
 
