@@ -54,6 +54,7 @@ const customFields = {
   npmCoreUrl: `${npmOrgUrl}/core`,
   discordUrl: `https://discord.com/invite/m7tFX8u43J`,
   twitterUrl: 'https://twitter.com/skyekiwi_team',
+  telegramUrl: 'https://t.me/skyekiwi',
   version: '0.0.1',
   announcementBar: {
     id: 'announcement',
@@ -143,14 +144,17 @@ const config = {
               href: customFields.githubUrl,
             },
             {
+              label: 'Twitter',
+              href: customFields.twitterUrl,
+            },
+            {
               label: 'Discord',
               href: customFields.discordUrl,
             },
             {
-              label: 'Twitter',
-              href: customFields.twitterUrl,
+              label: 'Telegram',
+              href: customFields.telegramUrl,
             },
- 
           ],
         },
         {
@@ -189,12 +193,16 @@ const config = {
               href: customFields.githubUrl,
             },
             {
+              label: 'Twitter',
+              href: customFields.twitterUrl,
+            },
+            {
               label: 'Discord',
               href: customFields.discordUrl,
             },
             {
-              label: 'Twitter',
-              href: customFields.twitterUrl,
+              label: 'Telegram',
+              href: customFields.telegramUrl,
             },
           ],
         },

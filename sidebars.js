@@ -41,7 +41,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'FQA',
+      label: 'FAQ',
       collapsed: false,
       items: [
         'faqs/install-wallet', 

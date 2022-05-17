@@ -73,4 +73,4 @@ This ducomentation website is built upon a template crafted by [AgileTs](https:/
 
 If you find issues with the documentation or have suggestions on how to improve the documentation or the project in
 general, please [file an issue](https://github.com/skyekiwi/documentation) for us or join
-our [Community Discord](https://discord.com/invite/m7tFX8u43J) and notice it in the `#issue` channel.
+our [Community Discord](https://discord.com/invite/m7tFX8u43J) and notice it in the `#feedback` channel.

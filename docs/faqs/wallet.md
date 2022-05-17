@@ -7,7 +7,7 @@ slug: /install-wallet
 
 ## Polkadot.js
 [Polkadot.js](https://polkadot.js.org/extension/) is a web browser wallet extension that manages users’ private keys, 
-and lets them sign transactions with their accounts. Unlike MetaMask, Polkadot.js does not allow users to create transactions 
+and it allows the signing of transactions with their accounts. Unlike MetaMask, Polkadot.js does not allow users to create transactions 
 with the extension (though you can sign transactions with the extension), it only manages the private keys. 
 Transactions must be made from apps, such as the [Polkadot.js Apps](https://polkadot.js.org/apps/#/accounts).
  
@@ -51,4 +51,4 @@ On the next page, you can define some settings for your account.
 
 <img src="https://github.com/dappforce/subsocial-docs/raw/main/static/img/getting-started-4.png" width="360" />
 
-Congratulations, you now have a Substrate account. 
+Congratulations, you now have a Substrate account.
