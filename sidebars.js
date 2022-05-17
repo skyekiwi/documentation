@@ -39,7 +39,14 @@ module.exports = {
         'network/key-rotation',
       ],
     },
-    'faqs',
+    {
+      type: 'category',
+      label: 'FQA',
+      collapsed: false,
+      items: [
+        'faqs/install-wallet', 
+      ],
+    },
     'bounties'
   ],
 };
