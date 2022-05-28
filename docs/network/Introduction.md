@@ -23,10 +23,10 @@ The SkyeKiwi Client Library reads in files/FormData in binary stream, divide the
 |`@skyekiwi/driver`|Core Driver of the protocol / exposed APIs|Ready|
 |`@skyekiwi/file`|File stream wrapper|Ready. Alpha in Browsers|
 |`@skyekiwi/ipfs`|IPFS Client wrapper|See [IPFS](/docs/protocol/ipfs)|
-|`@skyekiwi/metadata`|Metadata Packaer|Ready|
-|`@skyekiwi/s-contract`|Utilites and encoding schema for the sContract Interface|Limited Capcbility|
+|`@skyekiwi/metadata`|Metadata Package|Ready|
+|`@skyekiwi/s-contract`|Utilities and encoding schema for the sContract Interface|Limited Capability|
 |`@skyekiwi/util`|Useful Utility Functions|Ready|
-|`@skyekiwi/secret-registry`|Register your secret to the SkyeKiwi Network|Limited Capcbility|
+|`@skyekiwi/secret-registry`|Register your secret to the SkyeKiwi Network|Limited Capability|
 
 
 ## Sample Usage
@@ -118,9 +118,9 @@ yarn
 SEED_PHRASE = 'xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx'
 ```
 
-Go to our [Discord](https://discord.com/invite/m7tFX8u43J) server for testnet faucet. 
+3. Go to our [Discord](https://discord.com/invite/m7tFX8u43J) server for testnet faucet. 
 
-3. Run Tests. The process can take somewhere between 3minutes to 10 minutes, depends on network connection. 
+4. Run Tests. The process can take 3 - 10 minutes depending on network connection. 
 
 ```bash
 yarn test

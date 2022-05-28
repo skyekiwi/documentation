@@ -8,12 +8,12 @@ image: img/meta.png
 ---
 
 ## What is SkyeKiwi Protocol?
-SkyeKiwi is using a combination of multiple well-developed cryptographic schema to create a solution of securely sharing information in blockchain networks. The capacities of blockchain networks will be significantly enhanced when programable secrets can be processed through a decentralized network. We believe an innovative and unique new economic model will be created when secrets are processed on blockchains. 
+SkyeKiwi is using a combination of multiple well-developed cryptographic schema to create a solution of securely sharing information in blockchain networks. The capacities of blockchain networks will be significantly enhanced when programmable secrets can be processed through a decentralized network. We believe an innovative and unique new economic model will be created when secrets are processed on blockchains. 
 
 
 ## How does it work?
 
-The SkyeKiwi Client Library reads in files/FormData in binary stream, divide them in chunks, generate a random sealing key of 32 bytes and symmetrically encrypt these chunks with the sealing key. Later on, a list of all CIDs and the sealing key will go through a Threshold secret sharing library then encrypted with the according public key of recipeints and pushed to a public IPFS network. The encrypted key shares will be composed into a metadata file and can be securely publicized. It will be stored on IPFS then publish the CID to a smart contract. 
+The SkyeKiwi Client Library reads in files/FormData in binary stream, divide them in chunks, generate a random sealing key of 32 bytes and symmetrically encrypt these chunks with the sealing key. Later on, a list of all CIDs and the sealing key will go through a Threshold secret sharing library then encrypted with the according public key of recipients and pushed to a public IPFS network. The encrypted key shares will be composed into a metadata file and can be securely publicized. It will be stored on IPFS then publish the CID to a smart contract. 
 
 ## Install
 
@@ -24,10 +24,10 @@ The SkyeKiwi Client Library reads in files/FormData in binary stream, divide the
 |`@skyekiwi/driver`|Core Driver of the protocol / exposed APIs|Ready|
 |`@skyekiwi/file`|File stream wrapper|Ready. Alpha in Browsers|
 |`@skyekiwi/ipfs`|IPFS Client wrapper|See [IPFS](/docs/protocol/ipfs)|
-|`@skyekiwi/metadata`|Metadata Packaer|Ready|
-|`@skyekiwi/s-contract`|Utilites and encoding schema for the sContract Interface|Limited Capcbility|
+|`@skyekiwi/metadata`|Metadata Package|Ready|
+|`@skyekiwi/s-contract`|Utilities and encoding schema for the sContract Interface|Limited Capability|
 |`@skyekiwi/util`|Useful Utility Functions|Ready|
-|`@skyekiwi/secret-registry`|Register your secret to the SkyeKiwi Network|Limited Capcbility|
+|`@skyekiwi/secret-registry`|Register your secret to the SkyeKiwi Network|Limited Capability|
 
 
 ## Sample Usage
@@ -119,9 +119,9 @@ yarn
 SEED_PHRASE = 'xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx'
 ```
 
-Go to our [Discord](https://discord.com/invite/m7tFX8u43J) server for testnet faucet. 
+3. Go to our [Discord](https://discord.com/invite/m7tFX8u43J) server for testnet faucet. 
 
-3. Run Tests. The process can take somewhere between 3minutes to 10 minutes, depends on network connection. 
+4. Run Tests. The process can take 3 - 10 minutes, depending on network connection. 
 
 ```bash
 yarn test
@@ -131,5 +131,5 @@ yarn test
 
 ### LICENSE
 
-Apache 2.0. See the `LICNESE` File. 
+Apache 2.0. See the `LICENSE` File. 
 
