@@ -15,7 +15,7 @@ module.exports = {
       type: 'category',
       label: 'QUICK START',
       collapsed: false,
-      items: ['quick_start/interact', 'quick_start/deploy'],
+      items: ['quick_start/env-setup', 'quick_start/deploy', 'quick_start/interact'],
     },
     {
       type: 'category',
