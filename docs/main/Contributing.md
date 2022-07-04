@@ -1,6 +1,6 @@
 ---
 id: contributing
-title: Contributing to SkyeKiwi
+title: Contribution & Community
 sidebar_label: Contributing
 slug: /contributing
 description: Contributions to AgileTs are not hard and very welcome.
@@ -8,30 +8,31 @@ image: img/meta.png
 ---
 
 We are open and grateful for any contribution made by the community.
-If you're interested in contributing to SkyeKiwi, this document might make the process for you easier.
+If you're interested in contributing to SkyeKiwi, this document will guide you the way.
 
 The [Open Source Guides](https://opensource.guide/) website has a collection of resources for individuals,
 communities, and companies who want to learn how to run and contribute to an open-source project.
-Contributors and people new to open source will find the following guides especially useful:
+
+For contributors and those who are new to open source:
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Building Welcoming Communities](https://opensource.guide/building-community/)
 
 
-## 👊 [Code of Conduct](https://code.fb.com/codeofconduct)
+## 👊 [Code of Conduct](/)
 
-Please read [the full text](https://code.fb.com/codeofconduct), so that you are able to understand what interpersonal actions will and will not be tolerated.
+Please read [the full text](/) to understand what interpersonal actions will and will not be tolerated.
 
 
 ## 😎 Get Involved
 
-There are many ways to contribute to AgileTs, and some of them don't involve writing any code.
+There are many ways to contribute to SkyeKiwi, and some of them don't involve writing any code.
 Here are a few ideas to get started:
-- Just start using AgileTs. Does everything work as expected? If not, we're always looking for improvements. Let us know by [opening an issue](#reporting-new-issues).
-- Help us solving [open issues](https://github.com/agile-ts/agile/issues) by suggesting workarounds or fixing them.
+- Just joined the SkyeKiwi Community. Does everything work as expected? If not, we're always looking for improvements. Let us know by [opening an issue](#reporting-new-issues).
+- Help us solving [open issues](/) by suggesting workarounds or fixing them.
 - [Improve open issues](#improve-issues-and-pull-requests) to make them more clear, readable, and understandable for others.
-- Read through the [AgileTs docs](https://agile-ts.org/docs). If you find anything confusing or that can be improved, feel free to make improvements by clicking "Edit" at the bottom of the doc page.
-- Take a look at the [features requested](https://github.com/agile-ts/agile/labels/enhancement) by others and consider opening a pull request if you see something you want to work on.
+- Read through the [SkyeKiwi docs](/). If you find anything confusing or that can be improved, feel free to make improvements by clicking "Edit" at the bottom of the doc page.
+- Take a look at the [features requested](/) by others and consider opening a pull request if you see something you want to work on.
 
 ### Join our Discord Server
 
@@ -49,12 +50,12 @@ One great way to contribute without writing _any_ code is to improve open issues
 
 ## ⏰ Our Development Process
 
-AgileTs uses Github as its source of truth.
+SkyeKiwi uses Github as its source of truth.
 All changes made so far and made in the future are and will remain publicly accessible here.
 
 ### Branch Organization
 
-AgileTs has two primary branches: `master` and `develop`.
+SkyeKiwi has two primary branches: `master` and `develop`.
 
 `master` contains the latest released code.
 
