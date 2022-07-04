@@ -2,7 +2,7 @@
 id: env-setup 
 title: Setup Your Environment
 sidebar_label: Environment Setup
-slug: /quick-start/env-setup
+slug: /quick-start/env
 ---
 
 To develop on top of SkyeKiwi, you would first need to grab a few tools. 

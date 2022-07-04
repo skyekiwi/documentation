@@ -5,7 +5,7 @@ sidebar_label: Deploy Secret Contrtact
 slug: /quick-start/deploy
 ---
 
-This tutorial will walk through a typical process for writing and deploying a secret smart contract on SkyeKiwi. Refer to [Environment Setup](/quick-start/env-setup) to setup your Rust and Nodejs environment. 
+This tutorial will walk through a typical process for writing and deploying a secret smart contract on SkyeKiwi. Refer to [Environment Setup](/docs/quick-start/env) to setup your Rust and Nodejs environment. 
 
 If you had developed smart contracts on [Near](https://near.org/), you would find our smart contract SDK to be very similar to Near. If you have not, no worry, it's pretty straightforwards. 
 
