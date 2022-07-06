@@ -3,23 +3,22 @@ id: privacy-notice
 hide_table_of_contents: true
 ---
 
-# SkyeKiwi Open Source - Privacy Policy
+# SkyeKiwi - Privacy Policy
 
-**Last updated March 15, 2021**
+**Last updated July 6, 2022**
 
 :::info
 
-**In Short:** We may use [Google Analytics](https://analytics.google.com/) to improve our documentation
-and we don't collect any data regarding our users on our own.
+**In Short:** We may use [Google Analytics](https://analytics.google.com/) to improve our contents and services. This documentation is designed to help you understand how we collect, use, process, and share your personal information through your use of our websites and applications. The processing of personal data only takes place based on the appropriate legal basis and as permitted by law.
 
 :::
 
-Thank you for choosing to be part of our community at SkyeKiwi("Company", "we", "us", "our").
+Thank you for choosing to be part of our community at SkyeKiwi(hereinafter "Company", "we", "us", "our").
 We are committed to protecting your personal information and your right to privacy.
 If you have any questions or concerns about this privacy notice,
 or our practice with regards to your person information, please contact us at `hello@skye.kiwi`.
 
-When you visit our website https://docs.skye.kiwi(the "Website"),
+When you visit our websites(the 'websites' or 'Website'),
 we appreciate that you are trusting us with your personal information.
 We take your privacy very seriously.
 In this privacy notice, we seek to explain to you in the clearest way possible what information we collect on **this** website,
@@ -64,7 +63,7 @@ _Please read this privacy notice carefully as it will help you understand what w
 
 **In Short:** _Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Website._
 
-We automatically collect certain information when you visit, use or navigate the Website.
+We automatically collect certain information when you visit, use or navigate our websites.
 This information does not reveal your specific identity (like your name or contact information) but may include device and usage information,
 such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location,
 information about how and when you use our Website and other technical information.
@@ -224,7 +223,7 @@ However, despite our safeguards and efforts to secure your information,
 no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure,
 so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security,
 and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information,
-transmission of personal information to and from our Website is at your own risk. You should only access the Website within a secure environment.
+transmission of personal information to and from our Websites is at your own risk. You should only access the Website within a secure environment.
 
 
 <br/>
@@ -238,7 +237,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website.
 If we learn that personal information from users less than 18 years of age has been collected,
 we will deactivate the account and take reasonable measures to promptly delete such data from our records.
-If you become aware of any data we may have collected from children under age 18, please contact us at agiletypescript@gmail.com.
+If you become aware of any data we may have collected from children under age 18, please contact us at hello@skye.kiwi.
 
 
 <br/>
@@ -298,7 +297,7 @@ We encourage you to review this privacy notice frequently to be informed of how 
 
 ## 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at agiletypescript@gmail.com.
+If you have questions or comments about this notice, you may email us at hello@skye.kiwi.
 
 
 <br/>
@@ -308,7 +307,7 @@ If you have questions or comments about this notice, you may email us at agilety
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you,
 change that information, or delete it in some circumstances.
-To request to review, update, or delete your personal information, please send a request to agiletypescript@gmail.com.
+To request to review, update, or delete your personal information, please send a request to hello@skye.kiwi.
 We will respond to your request within 30 days.
 
 

@@ -3,9 +3,9 @@ id: cookie-policy
 hide_table_of_contents: true
 ---
 
-# SkyeKiwi Open Source - Cookie Policy
+# SkyeKiwi - Cookie Policy
 
-**Last updated March 15, 2021**
+**Last updated July 6, 2022**
 
 Cookies are small pieces of text used to store information on web browsers. 
 Cookies are used to store and receive identifiers and other information on computers, phones and other devices. 
