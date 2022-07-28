@@ -6,7 +6,9 @@ module.exports = {
       collapsed: false,
       items: [
         'main/introduction',
-        'main/philosophy',
+        // 'main/philosophy',
+        'main/why_privacy',
+        'main/why_tee_zk',
         'main/virtual-machines',
         'main/contributing',
       ],

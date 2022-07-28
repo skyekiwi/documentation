@@ -10,7 +10,7 @@ Welcome to SkyeKiwi Network documentation! For any question, join our community 
 
 ## 👋 Introduction {#introduction}
 
-SkyeKiwi is building a privacy layer for blockchains (the SkyeKiwi Network) based on the cryptographic backbone of the SkyeKiwi Protocol. The SkyeKiwi Network is **fast and cheap**, with **optional privacy** smart contract execution features. We aim to ease the pain of adoption to the era of privacy enabled interoperable blockchains. 
+SkyeKiwi is building a privacy layer for blockchains (the SkyeKiwi Network) based on the cryptographic backbone of the SkyeKiwi Protocol. The SkyeKiwi Network is **scalable and cheap**, with **optional privacy** smart contract execution features. We aim to ease the pain of adoption to the era of privacy enabled interoperable blockchains. 
 
 The core features behind the SkyeKiwi Network are awesome:
 
