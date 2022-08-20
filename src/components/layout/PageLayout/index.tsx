@@ -55,7 +55,7 @@ const PageLayout: React.FC<Props> = (props) => {
     <LayoutProviders>
       <Head>
         <meta name={'environment'} content={'production'} />
-
+        <script async defer data-website-id="ff3f8559-73ad-4349-a402-ff8dd6705651" src="https://analytics.skye.kiwi/umami.js"></script>
         {/* Name */}
         <meta name={'site_name'} content={siteTitle} />
         <meta name={'application-name'} content={siteTitle} />
