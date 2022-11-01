@@ -73,7 +73,7 @@ For the next setup, we would get to the on-chain parts.
 
 ## The SkyeKiwi Network Web UI
 
-While we are in procesess of building a more customized UI, the PolkadotJs App could be a great tool for viewing realtime network traffice status. Use this [link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fstaging.rpc.skye.kiwi#/explorer) to access. You would see an interface that looks like this:
+While we are in procesess of building a more customized UI, the PolkadotJs App could be a great tool for viewing realtime network traffic status. Use this [link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fstaging.rpc.skye.kiwi#/explorer) to access. You would see an interface that looks like this:
 
 [![jJWlgx.png](https://s1.ax1x.com/2022/07/04/jJWlgx.png)](https://imgtu.com/i/jJWlgx)
 
